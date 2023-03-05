@@ -1,11 +1,6 @@
 # Retail Data Analysis
 ### Nowsday, there is high competition in retail industry. Adoption of data analysis, the fact that happened, could make you get some insightful information and helpful for decision making. Here is some guideline you might apply for retail data analysis.
 
-![alt text](https://www.picz.in.th/image/Project-Retail-Store.eKMvaq "Retail Store")
-
-### These are the solutions I can think of, after I analyzed the data.
-
-![alt text](https://www.picz.in.th/image/Slide3.eZW4nv "Recommendation")
 
 <!--
 **MariKoh/MariKoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

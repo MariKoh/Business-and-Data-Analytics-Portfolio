@@ -8,8 +8,8 @@ Nowsday, there is high competition in retail industry. Adoption of data analysis
 
 ### These files show you the raw data, the code, and the final presentation which might be easy for you to get some ideas. I also appreciate for any feedback and comment which might be helpful to improve my skills. 😍
 
+### Credit:  Thank for raw data from Data Master program. ❤️
 
-##### Thank for raw data from Data Master program. ❤️
-
+### 👌👌👌Note: This project is allowed only private and non-commercial used only.👌👌👌
 
 ### Please enjoy my project😁

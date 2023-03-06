@@ -13,3 +13,4 @@ Nowsday, there is high competition in retail industry. Adoption of data analysis
 ### 👌👌👌Note: This project is allowed only private and non-commercial used only.👌👌👌
 
 ### Please enjoy my project😁
+MariKoh

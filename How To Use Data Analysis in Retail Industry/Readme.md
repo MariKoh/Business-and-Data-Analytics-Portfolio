@@ -1,6 +1,6 @@
 # Retail Data Analysis🥼👖🕶👟
 
-![Slide1](https://user-images.githubusercontent.com/50080574/223018938-9d365eff-6ec0-4cf7-9e6c-7a9dd3a9cb55.PNG)
+![Slide1](https://user-images.githubusercontent.com/50080574/224332129-da6a6ed2-d8b1-4b56-8bb4-73f2a77e9595.JPG)
 
 
 Nowsday, there is high competition in retail industry. Adoption of data analysis, the fact that happened, could make you get some insightful information and helpful for decision making. Here is some guideline you might apply for retail data analysis.📑📇

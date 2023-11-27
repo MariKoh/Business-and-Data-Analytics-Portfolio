@@ -17,5 +17,7 @@ The implementation of our fraud detection models has the potential to dramatical
 
 ### Please enjoy my project😁
 
-[Market Basket Analysis - Association Rules: Sale boosting is much easier, when you know purchasing behaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
-[How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
+ - [Market Basket Analysis - Association Rules: Sale boosting is much easier, when you know purchasing
+   behaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
+ - [How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
+ -  [Fraud Data Analytics and Detection](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Fraud%20Data%20Analytics%20and%20Detection)

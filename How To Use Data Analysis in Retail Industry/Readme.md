@@ -13,4 +13,7 @@ Nowsday, there is high competition in retail industry. Adoption of data analysis
 ### 👌👌👌Note: This project is allowed only private and non-commercial used only.👌👌👌
 
 ### Please enjoy my project😁
-MariKoh
+- [Market Basket Analysis - Association Rules: Sale boosting is much easier, when you know purchasingbehaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
+- [How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
+- [Fraud Detection in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Fraud%20Data%20Analytics%20and%20Detection)
+- [Customer Behavior in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Insurance%20Customer%20Behavior)

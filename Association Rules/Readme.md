@@ -91,4 +91,8 @@ When the customers purchase "RED HANGING HEART T-LIGHT HOLDER", there is 72% tha
 1) Online: We can apply "You may also like" section to show the products the customers have high potential to purchase.
 2) Offline: We can place the products the customers have high potential to buy together near each others for more convenient to them.
 
-
+### Please enjoy my project😁
+- [Market Basket Analysis - Association Rules: Sale boosting is much easier, when you know purchasingbehaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
+- [How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
+- [Fraud Detection in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Fraud%20Data%20Analytics%20and%20Detection)
+- [Customer Behavior in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Insurance%20Customer%20Behavior)

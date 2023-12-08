@@ -37,11 +37,7 @@ We're constantly updating our methods and findings with fresh data and perspecti
 ### 👌👌👌Note: This project is allowed only private and non-commercial used.👌👌👌
 
 ### Please enjoy my project😁
-
- - [Market Basket Analysis - Association Rules: Sale boosting is much
-   easier, when you know purchasing
-   behaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
- - [How To Use Data Analysis in Retail   
-   Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
-- [How To Use Data Analysis in Retail   
-   Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
+- [Market Basket Analysis - Association Rules: Sale boosting is much easier, when you know purchasingbehaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
+- [How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
+- [Fraud Detection in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Fraud%20Data%20Analytics%20and%20Detection)
+- [Customer Behavior in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Insurance%20Customer%20Behavior)

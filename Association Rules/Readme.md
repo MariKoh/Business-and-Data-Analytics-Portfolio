@@ -96,3 +96,4 @@ When the customers purchase "RED HANGING HEART T-LIGHT HOLDER", there is 72% tha
 - [How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
 - [Fraud Detection in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Fraud%20Data%20Analytics%20and%20Detection)
 - [Customer Behavior in Insurance Industry](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/Insurance%20Customer%20Behavior)
+- [User-Based Collaborative Filtering in Insurance Policy Recommendation](https://github.com/MariKoh/Business-and-Data-Analytics-Portfolio/tree/master/InsuranceRecommendationsystem)

@@ -229,7 +229,7 @@ reports/    figures (charts) + tables (results)
 
 **Audience routing:** employers / data teams → this README + [`Retailer-DS-Technical-Presentation.pdf`](Retailer-DS-Technical-Presentation.pdf);
 business leaders / clients → [`CDO-Portfolio.md`](CDO-Portfolio.md) + [`Retailer-CDO-Solution-Presentation.pdf`](Retailer-CDO-Solution-Presentation.pdf).
-Executive write-up: `CDO-Executive-Report.md`.
+Executive write-up: [`docs/CDO-Executive-Report.md`](docs/CDO-Executive-Report.md).
 
 ---
 

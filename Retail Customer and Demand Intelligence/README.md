@@ -108,7 +108,9 @@ three we prioritise, each with a distinct job:
 
 **Where customers leak:** only ~20% of new customers come back the next month — the drop-off
 is at the **second purchase**, so the highest-value fix is better onboarding, not a loyalty
-tier (cohort analysis).
+tier (cohort analysis). *(The retention curve is an average; it isn't strictly monotonic — a few
+early cohorts tick back up around month 11–12 as seasonal Christmas buyers reactivate, which is
+expected in seasonal retail rather than an error.)*
 
 **Early-warning model:** we flag who is likely to stop buying in the next 3 months, using
 only information available at decision time (a careful time-split so the model never "peeks"
@@ -225,8 +227,8 @@ reports/    figures (charts) + tables (results)
 `python -m src.pipeline.build_features` followed by the analysis modules.
 **Tools:** Python, pandas, scikit-learn, XGBoost, lifetimes, matplotlib, a parquet star schema.
 
-**Audience routing:** employers / data teams → this README + `Retailer-DS-Technical-Deck.pptx`;
-business leaders / clients → [`CDO-Portfolio.md`](CDO-Portfolio.md) + `Retailer-CDO-Solution-Deck.pptx`.
+**Audience routing:** employers / data teams → this README + [`Retailer-DS-Technical-Presentation.pdf`](Retailer-DS-Technical-Presentation.pdf);
+business leaders / clients → [`CDO-Portfolio.md`](CDO-Portfolio.md) + [`Retailer-CDO-Solution-Presentation.pdf`](Retailer-CDO-Solution-Presentation.pdf).
 Executive write-up: `CDO-Executive-Report.md`.
 
 ---

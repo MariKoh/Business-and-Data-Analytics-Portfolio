@@ -115,12 +115,19 @@ def main():
 
     # --- figure: actual vs forecast for top-6 SKUs ---
     top6 = res.groupby("stock_code")["actual"].sum().sort_values(ascending=False).head(6).index
+    # Label panels with the product NAME (not the SKU code) for readability.
+    namemap = (pd.read_csv(PROC / "category_map.csv")
+                 .assign(stock_code=lambda d: d["stock_code"].astype(str))
+                 .drop_duplicates("stock_code").set_index("stock_code")["description"].to_dict())
+    def _label(sc):
+        nm = str(namemap.get(str(sc), sc)).strip().title()
+        return nm if len(nm) <= 30 else nm[:29] + "."
     fig, axes = plt.subplots(2, 3, figsize=(15, 7))
     for ax, sc in zip(axes.ravel(), top6):
         d = res[res["stock_code"] == sc].sort_values("week")
         ax.plot(d["week"], d["actual"], "o-", color="#2C2C2C", lw=1.5, ms=3, label="actual")
         ax.plot(d["week"], d["forecast"], "s--", color="#2C6E49", lw=1.5, ms=3, label="forecast")
-        ax.set_title(str(sc), fontsize=9); ax.tick_params(labelsize=7)
+        ax.set_title(_label(sc), fontsize=9); ax.tick_params(labelsize=7)
     axes.ravel()[0].legend(fontsize=8)
     fig.suptitle("1-week-ahead demand forecast vs actual (top SKUs, 12-week holdout)", fontweight="bold")
     fig.tight_layout(); fig.savefig(FIG / "forecast_top_skus.png", dpi=135)

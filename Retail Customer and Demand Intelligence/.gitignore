@@ -29,12 +29,14 @@ mlruns/
 Thumbs.db
 .vscode/
 .idea/
-_qa/
-Lotus-*.pptx
+
+# --- QA render scratch + regenerable build artifacts ---
 _qa*
 _qc/
+_pdftmp/
+Lotus-*.pptx
+# Decks ship as PDF; the .pptx source regenerates via `python scripts/make_decks.py`
+*.pptx
 
-# unbuilt placeholder (Docker/MLOps is roadmap, see docs/scaling-to-production.md)
-docker-compose.yml
 # regenerable warehouse (rebuild: python -m src.warehouse.build_star_schema)
 data/warehouse/*

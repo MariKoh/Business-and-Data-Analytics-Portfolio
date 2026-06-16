@@ -1,0 +1,8 @@
+step,rows_in,rows_out,removed
+standardise dtypes,1067371,1067371,0
+drop unparseable dates,1067371,1067371,0
+drop duplicate rows,1067371,1033036,34335
+drop cancellations,1033036,1013932,19104
+drop non-positive qty/price,1013932,1007913,6019
+flag product vs service codes,1007913,1007913,0
+add line revenue,1007913,1007913,0

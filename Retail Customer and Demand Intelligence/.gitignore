@@ -1,0 +1,40 @@
+# --- Data: regenerate locally with `python -m src.pipeline.build_features` ---
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+
+# --- Secrets / environment ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Experiment tracking (MLflow) ---
+mlruns/
+
+# --- Reports & figures are TRACKED (they render on GitHub and back the report) ---
+# (the large raw/processed data stays ignored above; figures + PDF are committed)
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+_qa/
+Lotus-*.pptx
+_qa*
+_qc/
+
+# unbuilt placeholder (Docker/MLOps is roadmap, see docs/scaling-to-production.md)
+docker-compose.yml
+# regenerable warehouse (rebuild: python -m src.warehouse.build_star_schema)
+data/warehouse/*

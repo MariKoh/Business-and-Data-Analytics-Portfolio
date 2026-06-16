@@ -1,0 +1,7 @@
+cluster,members,recency_days,frequency,monetary,tenure_days,churn_prob,total_monetary,members_pct,revenue_pct,retainable_value,segment
+3,1013,34.64,20.85,11790.57,661.8,0.02,11943849.93,17.3,70.0,11704973.0,"High-value, active"
+1,1545,83.85,5.13,1700.88,548.49,0.05,2627865.63,26.4,15.4,2496472.0,"Mid-value, active, at-risk"
+0,1380,83.0,2.03,655.88,144.26,0.04,905117.07,23.6,5.3,868912.0,"Low-value, active"
+4,250,483.92,6.97,2884.37,618.7,0.74,721091.82,4.3,4.2,187484.0,"High-value, lapsing, at-risk"
+5,675,388.44,2.92,833.94,580.31,0.3,562906.61,11.5,3.3,394035.0,"Mid-value, lapsing, at-risk"
+2,989,514.86,1.04,311.16,516.21,0.0,307736.91,16.9,1.8,307737.0,"Low-value, lapsing"

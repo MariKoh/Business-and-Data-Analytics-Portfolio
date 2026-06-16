@@ -1,0 +1,9 @@
+# Normalize line endings: store text as LF in the repo, check out as LF.
+* text=auto eol=lf
+
+# Treat data artefacts and images as binary.
+*.xlsx binary
+*.parquet binary
+*.png binary
+*.pdf binary
+*.pptx binary

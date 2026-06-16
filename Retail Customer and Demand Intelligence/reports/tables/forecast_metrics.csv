@@ -1,0 +1,9 @@
+,0
+WAPE_baseline_MA,0.594
+WAPE_seasonal_naive,0.801
+WAPE_xgboost,0.62
+MAE_baseline_MA_units,216.164
+MAE_xgboost_units,225.595
+RMSE_baseline_MA_units,2358.46
+RMSE_xgboost_units,2371.783
+Bias_xgboost_units,-125.995

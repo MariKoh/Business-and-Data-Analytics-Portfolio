@@ -1,0 +1,22 @@
+# Retail Customer-Intelligence Platform - Python dependencies
+
+# --- Data pipeline & warehouse ---
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1        # read the Online Retail II .xlsx workbook
+python-calamine>=0.2 # fast .xlsx reader (cleaning showcase)
+pyarrow>=14.0        # Parquet feature marts + star-schema warehouse
+
+# --- Analysis, stats & ML ---
+scipy>=1.11          # power analysis, newsvendor
+scikit-learn>=1.3    # K-Means, logistic regression, cosine CF, PCA
+xgboost>=2.0         # churn classifier + demand forecaster
+lifetimes>=0.11      # BG/NBD churn-probability (RFMTC 'C')
+matplotlib>=3.7      # all figures
+
+# --- Reporting ---
+python-pptx>=0.6     # executive decks
+Pillow>=10.0         # image sizing in decks
+jupyter>=1.0         # narrative notebook
+jupytext>=1.16
+# markitdown[pptx]   # optional: deck text-extraction QA

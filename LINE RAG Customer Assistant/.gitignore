@@ -1,0 +1,26 @@
+# Secrets
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Embedding model cache (re-downloads automatically)
+.hf_cache/
+data/index/
+
+# Raw demo recording (compressed GIF lives in docs/assets/ and is tracked)
+*.mp4
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

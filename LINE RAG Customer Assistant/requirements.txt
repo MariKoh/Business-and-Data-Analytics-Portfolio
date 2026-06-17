@@ -1,0 +1,32 @@
+# ======================================================================
+# MooM HoM LINE RAG Assistant — dependencies
+# Stack (matches Uncle Engineer "Custom AI with RAG" EP.8-9):
+#   Pinecone (vector DB) + sentence-transformers (embeddings) + OpenRouter (LLM)
+# ======================================================================
+
+# --- Vector database ---
+pinecone==5.0.1
+
+# --- Embeddings (free, local, multilingual incl. Thai) ---
+sentence-transformers==3.0.1
+
+# --- LLM via OpenRouter (OpenAI-compatible client) ---
+openai==1.43.0
+httpx==0.27.2          # pin: openai 1.43 passes `proxies=`, removed in httpx>=0.28
+
+# --- LINE Messaging API ---
+line-bot-sdk==3.11.0
+
+# --- Web service (webhook) ---
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+pydantic-settings==2.4.0
+
+# --- Utilities ---
+python-dotenv==1.0.1
+loguru==0.7.2
+
+# --- Evaluation & testing ---
+pytest==8.3.2
+pandas==2.2.2

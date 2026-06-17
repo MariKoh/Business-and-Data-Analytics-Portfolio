@@ -1,0 +1,10 @@
+{"question": "กลิ่นไหนช่วยให้นอนหลับ", "expected_keywords": ["Calm Down", "ลาเวนเดอร์"], "should_be_grounded": true}
+{"question": "อยากได้กลิ่นสดชื่นไว้วางโต๊ะทำงาน แนะนำกลิ่นไหน", "expected_keywords": ["Main Character", "เบอร์กามอต"], "should_be_grounded": true}
+{"question": "ราคาเซ็ต 3 กลิ่นเท่าไหร่", "expected_keywords": ["990"], "should_be_grounded": true}
+{"question": "ส่งฟรีไหม", "expected_keywords": ["590"], "should_be_grounded": true}
+{"question": "กลิ่นอยู่ได้นานแค่ไหน", "expected_keywords": ["6-8", "สัปดาห์"], "should_be_grounded": true}
+{"question": "วิธีใช้ก้านไม้หอมยังไง", "expected_keywords": ["กลับก้าน", "เสียบ"], "should_be_grounded": true}
+{"question": "คืนสินค้าได้ไหม", "expected_keywords": ["7 วัน", "ชำรุด"], "should_be_grounded": true}
+{"question": "มีกลิ่นกุหลาบไหม", "expected_keywords": ["กุหลาบ"], "should_be_grounded": true}
+{"question": "เปิดสาขาที่เชียงใหม่หรือยัง", "expected_keywords": [], "should_be_grounded": false}
+{"question": "ใช้แล้วรักษาโรคภูมิแพ้ได้ไหม", "expected_keywords": ["ปรึกษา"], "should_be_grounded": true}
